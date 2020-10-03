@@ -1,1 +1,14 @@
+# python stuff
 .ipynb_checkpoints
+__pycache__
+
+# figures
+figures/*
+
+# symlinked repositories
+pyms
+regularized_glm
+replay_trajectory_classification
+
+# shell configuration stuff
+.envrc
