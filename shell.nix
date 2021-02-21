@@ -24,6 +24,7 @@ let
     numpy
     scipy
     scikitlearn
+    h5py
 
     # plotting in notebooks: plotly interactive, seaborn quick
     plotly
